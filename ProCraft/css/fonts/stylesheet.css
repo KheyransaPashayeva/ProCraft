@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Axiforma';
+    /*src: url('axiforma_bold-webfont.eot');
+    src: url('axiforma_bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('axiforma_bold-webfont.woff2') format('woff2'),
+    url('axiforma_bold-webfont.woff') format('woff'),
+    url('axiforma_bold-webfont.ttf') format('truetype'),
+    url('axiforma_bold-webfont.svg#axiformabold') format('svg');*/
+    src: url('museosansaz_3-webfont.eot');
+    src: url('museosansaz_3-webfont.eot?#iefix') format('embedded-opentype'),
+    url('museosansaz_3-webfont.woff2') format('woff2'),
+    url('museosansaz_3-webfont.woff') format('woff'),
+    url('museosansaz_3-webfont.ttf') format('truetype'),
+    url('museosansaz_3-webfont.svg#museo_sans_az900') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    /*src: url('axiforma_regular-webfont.eot');
+    src: url('axiforma_regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('axiforma_regular-webfont.woff2') format('woff2'),
+    url('axiforma_regular-webfont.woff') format('woff'),
+    url('axiforma_regular-webfont.ttf') format('truetype'),
+    url('axiforma_regular-webfont.svg#axiformaregular') format('svg');*/
+    src: url('museosansaz_0-webfont.eot');
+    src: url('museosansaz_0-webfont.eot?#iefix') format('embedded-opentype'),
+    url('museosansaz_0-webfont.woff2') format('woff2'),
+    url('museosansaz_0-webfont.woff') format('woff'),
+    url('museosansaz_0-webfont.ttf') format('truetype'),
+    url('museosansaz_0-webfont.svg#museo_sans_az300') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    /*src: url('axiforma_light-webfont.eot');
+    src: url('axiforma_light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('axiforma_light-webfont.woff2') format('woff2'),
+    url('axiforma_light-webfont.woff') format('woff'),
+    url('axiforma_light-webfont.ttf') format('truetype'),
+    url('axiforma_light-webfont.svg#axiformalight') format('svg');*/
+    src: url('museosansaz_0-webfont.eot');
+    src: url('museosansaz_0-webfont.eot?#iefix') format('embedded-opentype'),
+    url('museosansaz_0-webfont.woff2') format('woff2'),
+    url('museosansaz_0-webfont.woff') format('woff'),
+    url('museosansaz_0-webfont.ttf') format('truetype'),
+    url('museosansaz_0-webfont.svg#museo_sans_az300') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url('FontAwesome5FreeRegular.woff2') format('woff2'),
+    url('FontAwesome5FreeRegular.woff') format('woff'),
+    url('FontAwesome5FreeRegular.svg#FontAwesome5FreeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Brands';
+    src: url('FontAwesome5BrandsRegular.woff2') format('woff2'),
+    url('FontAwesome5BrandsRegular.woff') format('woff'),
+    url('FontAwesome5BrandsRegular.svg#FontAwesome5BrandsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url('FontAwesome5FreeSolid.woff2') format('woff2'),
+    url('FontAwesome5FreeSolid.woff') format('woff'),
+    url('FontAwesome5FreeSolid.svg#FontAwesome5FreeSolid') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

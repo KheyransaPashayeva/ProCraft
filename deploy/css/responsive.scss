@@ -359,16 +359,16 @@
         align-items: center;
       } 
       nav#nav {
-        display: block;
+        display: none;
       }
       .social_icons {
         padding: 0 0 0 15px;
       }
       .head_search {
-        display: block;
+        display: none;
       }
       .lang {
-        display: block;
+        display: none;
       }   
     }
     .logo {
@@ -380,12 +380,11 @@
       }
     }
     a.toggler {
-      display: none;
+      display: block;
     }
     .index_bg {
       height: 45vh;
       .bg {
-        width: 100%;
         height: 45vh;
       }
     }
